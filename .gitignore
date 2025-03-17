@@ -1,1 +1,4 @@
 oauth_secrets.json
+/googleLogin/myvenv
+/googleLogin/.env
+/googleLogin/__pycache__
